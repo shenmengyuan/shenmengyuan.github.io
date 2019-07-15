@@ -30,11 +30,11 @@ type: page
 
   
 
-  <img src="./images/微信号.png" height="200"  />
+  <img src="../_posts/images/微信号.png" height="200"  />
 
 
 ## 捐赠我
-<img src="./images/捐赠我.jpg" height="200"  />
+<img src="../_posts/images/捐赠我.jpg" height="200"  />
 
 ## 关于本站
 
