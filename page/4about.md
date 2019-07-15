@@ -28,13 +28,13 @@ type: page
 
 * 微信公众号：
 
-  
 
-  <img src="../_posts/images/微信号.png" height="200"  />
+
+  <img src="https://img.mubu.com/document_image/398da4f5-c48c-4a0a-a61e-6f41c7d0c4c3-580015.jpg" height="200"  />
 
 
 ## 捐赠我
-<img src="../_posts/images/捐赠我.jpg" height="200"  />
+<img src="https://img.mubu.com/document_image/6cea0502-c649-4748-b444-38ef10c7b40d-580015.jpg" height="200"  />
 
 ## 关于本站
 
