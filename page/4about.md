@@ -18,7 +18,7 @@ type: page
 - **编程**：熟练掌握R、Perl、Linux编程语言，了解Python语法及简单编程；
 - **组学**：精通宏基因组学的各类分析软件与流程，熟悉原核生物的基因组学、转录组学、比较基因组学分析流程，此外正在学习蛋白质组学、代谢组学；
 - **统计绘图**：熟悉掌握R语言进行微生物生态方面的统计分析及绘图，并熟练使用Adobe Illustrator矢量绘图软件；
-- **湿实验**：熟练掌握细菌的分离纯化培养及动植物微生物的DNA提取纯化，熟悉基因的分子克隆实验；
+- **湿实验**：熟练掌握细菌的分离、纯化、培养及鉴定，动植物微生物的DNA提取纯化，熟悉基因的分子克隆、表达实验；
 
 ### 参与项目
 
@@ -39,7 +39,14 @@ type: page
 - Wang, Juanping, Wang, Chang, Li, Jionghui, Bai, Peng, Li, Qi, **Shen, Mengyuan**, et al. (2018). Comparative Genomics of Degradative Novosphingobium Strains With Special Reference to Microcystin-Degrading Novosphingobium sp. THN1. Frontiers in Microbiology,9. （主要贡献：部分数据分析脚本编写和咨询、提供相关文献和分析思路以及参与部分写作发表、意见回复工作）
 - Li, Qi, Lin, Feibi, Yang, Chen, Wang, Juanping, Lin, Yan, & **Shen, Mengyuan**, et al. (2018). A Large-Scale Comparative Metagenomic Study Reveals the Functional Interactions in Six Bloom-Forming Microcystis-Epibiont Communities. Frontiers in Microbiology, 9. （主要贡献：文章数据处理思路研讨、相关文献查找以及参与部分写作发表讨论修改）
 
+### 感兴趣的方向
 
+- 水产养殖系统中宿主-微生物相互作用的功能
+- 鱼类和其他水产养殖动物的微生物群落，包括养殖生物或水产养殖环境的宏基因组学
+- 微生物生态学的综合方法，包括(宏)转录组学和(宏)蛋白质组学
+- 益生菌和益生元及其对养殖水生生物肠道微生物群落的影响
+- 养殖水生生物和水产养殖系统中的抗生素耐药性和抗药性
+- 水产养殖中的微生物控制及影响水产养殖的细菌病原体基因组学
 
 
 ## 联系我
