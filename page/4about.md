@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-在校博士研究生，现就读于中国科学院水生生物研究所，水生生物学专业，自学生物信息学，从事湖泊微生物生态研究。
+毕业于中国科学院水生生物研究所，水生生物学专业，自学生物信息学，现为广州中国科学院先进技术研究所博士后。
 
 ### 技能
 
@@ -32,9 +32,7 @@ type: page
 
 ### 文章发表
 
-- **Shen, Mengyuan** et al. The Impacts of Different Trophic Status on Community Structure and 
-  Metabolic Potential of Microbiota in the Lakes of Yun-Gui plateau of China . (In preparation)
-
+- **Shen, M.**, Li, Q., Ren, M., Lin, Y., Wang, J., Chen, L., Li, T., and Zhao, J. (2019). Trophic Status Is Associated With Community Structure and Metabolic Potential of Planktonic Microbiota in Plateau Lakes. Front. Microbiol. *10*, 2560. （独立一作）
 - Wang J, Wang C, Li Q, **Shen M**, Bai P, Li J, Lin Y, Li T and Zhao J (2019).Microcystin-LR degradation andgene regulation of microcystin-degrading Novosphingobium sp. THN1 at different carbonconcentrations. Front. Microbiol. 10:1750. doi:10.3389/fmicb.2019.01750 (主要贡献：参与前期预实验的转录组分析及测序公司推荐)
 - Wang, Juanping, Wang, Chang, Li, Jionghui, Bai, Peng, Li, Qi, **Shen, Mengyuan**, et al. (2018). Comparative Genomics of Degradative Novosphingobium Strains With Special Reference to Microcystin-Degrading Novosphingobium sp. THN1. Frontiers in Microbiology,9. （主要贡献：部分数据分析脚本编写和咨询、提供相关文献和分析思路以及参与部分写作发表、意见回复工作）
 - Li, Qi, Lin, Feibi, Yang, Chen, Wang, Juanping, Lin, Yan, & **Shen, Mengyuan**, et al. (2018). A Large-Scale Comparative Metagenomic Study Reveals the Functional Interactions in Six Bloom-Forming Microcystis-Epibiont Communities. Frontiers in Microbiology, 9. （主要贡献：文章数据处理思路研讨、相关文献查找以及参与部分写作发表讨论修改）
@@ -51,7 +49,7 @@ type: page
 
 ## 联系我
 
-预计2020年夏天开始找工作，打算继续做科研，欢迎对我感兴趣的朋友可以提前联系我。
+如果您对我发布的学习笔记或者文章感兴趣，可以联系我。
 
 * GitHub：[shenmengyuan](https://github.com/shenmengyuan)
 
